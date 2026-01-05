@@ -6,7 +6,7 @@
 <p>Welcome!!!</p>
 <p>My name is nihad</p>
 <a href="about.jsp">About Page</a>
-<a href="services.jsp">About Page</a>
+<a href="services.jsp">Service Page</a>
 
 </body>
 </html>
